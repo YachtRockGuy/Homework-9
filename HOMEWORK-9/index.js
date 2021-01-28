@@ -41,8 +41,6 @@ const promptUser = () => {
 
 const generateHTML = (answers) =>
 
-;
-
 function init() {
   console.log('hi');
   try {
